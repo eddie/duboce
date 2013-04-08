@@ -1,0 +1,3 @@
+[submodule "subtlepatterns"]
+	path = subtlepatterns
+	url = git@github.com:subtlepatterns/SubtlePatterns.git

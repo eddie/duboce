@@ -1,0 +1,6 @@
+.sass-cache
+*.gem
+*.rbc
+.bundle
+.config
+Gemfile.lock
