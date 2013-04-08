@@ -19,7 +19,6 @@ If you wish to use the Livereload component you will need a plugin for your brow
 
 # Credits
 - [dvessel](https://gist.github.com/dvessel/1610551) for providing guard configuration with compass 
-- [subtlepatterns](https://github.com/subtlepatterns/SubtlePatterns) for the subtlepatterns submodule, fantastic collection for prototyping
 - [css-tricks.com](http://css-tricks.com/dont-overthink-it-grids/) for the groundwork of the custom grid system.
 - [guard](https://github.com/guard/guard) for handling watching of files
 # License 
