@@ -18,10 +18,10 @@ Then install dependencies with:
 If you wish to use the Livereload component you will need a plugin for your browser, I recommend [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en) for Chrome/Chromium.
 
 # Credits
- - [dvessel](https://gist.github.com/dvessel/1610551) for providing guard configuration with compass 
- - [subtlepatterns](https://github.com/subtlepatterns/SubtlePatterns) for the subtlepatterns submodule, fantastic collection for prototyping
+- [dvessel](https://gist.github.com/dvessel/1610551) for providing guard configuration with compass 
+- [subtlepatterns](https://github.com/subtlepatterns/SubtlePatterns) for the subtlepatterns submodule, fantastic collection for prototyping
 - [css-tricks.com](http://css-tricks.com/dont-overthink-it-grids/) for the groundwork of the custom grid system.
-
+- [guard](https://github.com/guard/guard) for handling watching of files
 # License 
 
 Put together by Eddie (eblundell.com), do what you wish with this project!
