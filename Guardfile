@@ -1,4 +1,3 @@
-# Guard configuration from https://gist.github.com/dvessel/1610551
 
 puts "Using default guard file."
 

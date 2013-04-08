@@ -1,6 +1,4 @@
 
-# https://gist.github.com/dvessel/1610551 mostly taken from here
-
 group :development do
 
     gem 'sass'                    # Sass.
